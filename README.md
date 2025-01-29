@@ -9,6 +9,7 @@ By reading the following, I gained perspectives that will made me a better leade
 - [General Leadership](#general-leadership)
 - [Understanding People and Yourself, Communicating with Empathy, and Seeing the Unseen](#understanding-people-and-yourself-communicating-with-empathy-and-seeing-the-unseen)
 - [Adapting to New Roles and Expectations](#adapting-to-new-roles-and-expectations)
+- [Business Processes](#business-processes)
 
 ## General Leadership
 
@@ -58,4 +59,11 @@ By reading the following, I gained perspectives that will made me a better leade
 | [Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong](https://a.co/d/fjREdHC) | [![Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong](https://m.media-amazon.com/images/I/71HDkkX81tL._SY522_.jpg)](https://a.co/d/fjREdHC) | _Eric Barker_ | Most of the earnest and logical advice you got about how to become successful was wrong. |
 | [What Got You Here Won't Get You There: How Successful People Become Even More Successful](https://a.co/d/gjCPz3R) | [![What Got You Here Won't Get You There: How Successful People Become Even More Successful](https://m.media-amazon.com/images/I/71UONAxkmpL._SY522_.jpg)](https://a.co/d/gjCPz3R) | _Marshall Goldsmith_, _Mark Reiter_ | America’s most sought-after executive coach shows how to climb the last few rungs of the ladder. |
 <!-- | [Buy-In: Saving Your Good Idea from Getting Shot Down](https://a.co/d/1W8AIHk) | [![Buy-In: Saving Your Good Idea from Getting Shot Down](https://m.media-amazon.com/images/I/71nop4zUZ9L._SY522_.jpg)](https://a.co/d/1W8AIHk) | _John P. Kotter_ | The ability to conceive and develop good ideas, and communicate them to others is a basic life skill we all use on a daily basis.  Being able to get buy-in from our constituents is key to success. | -->
+
+## Business Processes
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [Lean Software Development: An Agile Toolkit: An Agile Toolkit](https://a.co/d/8iOJk4w) | [![Lean Software Development: An Agile Toolkit: An Agile Toolkit](https://m.media-amazon.com/images/I/71rOtB3FBVL._SY522_.jpg)](https://a.co/d/8iOJk4w) | _Mary Poppendieck_, _Tom Poppendieck_ | Learn all about the benefits of Kanban. |
+<!-- | [Execution: The Discipline of Getting Things Done](https://a.co/d/0vU3m6S) | [![Execution: The Discipline of Getting Things Done](https://m.media-amazon.com/images/I/71Xg5STofiL._SY522_.jpg)](https://a.co/d/0vU3m6S) | _Larry Bossidy_, _Ram Charan_, _Charles Burck_ | Execution shows how to link together people, strategy, and operations, the three core processes of every business. | -->
 
