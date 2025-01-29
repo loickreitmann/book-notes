@@ -7,6 +7,7 @@ By reading the following, I gained perspectives that will made me a better leade
 ### Table of Contents
 
 - [General Leadership](#general-leadership)
+- [Understanding People and Yourself, Communicating with Empathy, and Seeing the Unseen](#understanding-people-and-yourself-communicating-with-empathy-and-seeing-the-unseen)
 
 ## General Leadership
 
@@ -31,4 +32,19 @@ By reading the following, I gained perspectives that will made me a better leade
 <!-- | [Exactly What to Say: The Magic Words for Influence and Impact](https://a.co/d/65JOIgW) | [![Exactly What to Say: The Magic Words for Influence and Impact](https://m.media-amazon.com/images/I/51COtxzUfpL._SY522_.jpg)](https://a.co/d/65JOIgW) | _Phil M. Jones_ | What to say, when to say it, and how to make it count. | -->
 <!-- | [](https://a.co/d/jl5ylmr) | [![]()](https://a.co/d/jl5ylmr) | _Sarah Drasner_ | THIS BOOK ISN’T FOR THE “BORN LEADERS”. THIS BOOK IS FOR THE REST OF US. | -->
 
- 
+## Understanding People and Yourself, Communicating with Empathy, and Seeing the Unseen
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [How to Win Friends and Influence People in the Digital Age](https://a.co/d/073dAQi) | [![How to Win Friends and Influence People in the Digital Age](https://m.media-amazon.com/images/I/51po5QpVlYL._SY522_.jpg)](https://a.co/d/073dAQi) | _Dale Carnegie_ | Technicques and concepts that will improve your relationships and your level of influences in your circles. I’m not doing it justice! This is a must read if you aren’t a hermit. (–Loïc) |
+| [Think Again: The Power of Knowing What You Don't Know](https://a.co/d/8f8fi45) | [![Think Again: The Power of Knowing What You Don't Know](https://m.media-amazon.com/images/I/71I6Liq80VL._SY522_.jpg)](https://a.co/d/8f8fi45) | _Adam Grant_ | Allow yourself to consider letting other opinions change yours. |
+| [Give and Take: A Revolutionary Approach to Success](https://a.co/d/cbGGK0E) | [![Give and Take: A Revolutionary Approach to Success](https://m.media-amazon.com/images/I/61+Nv7OmMdL._SY522_.jpg)](https://a.co/d/cbGGK0E) | _Adam Grant_ | There are givers, matches, and takers. It’s best to be a giver. |
+| [What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People](https://a.co/d/fxPqN4n) | [![What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People](https://m.media-amazon.com/images/I/71byaqPnXsL._SY522_.jpg)](https://a.co/d/fxPqN4n) | _Joe Navarro_ | Understand people’s body language. |
+| [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://a.co/d/9YMFTMr) | [![The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://m.media-amazon.com/images/I/71lYNWxDYhL._SY522_.jpg)](https://a.co/d/9YMFTMr) | _Erin Meyer_ | Understanding how people communicate, across cultures. |
+| [Verbal Judo: The Gentle Art of Persuasion](https://a.co/d/ffEyqVY) | [![Verbal Judo: The Gentle Art of Persuasion](https://m.media-amazon.com/images/I/71Iz+qHqTRL._SY522_.jpg)](https://a.co/d/ffEyqVY) | _George J. Thompson_, _Jerry B. Jenkins_ | How to not have that “winning” argument you’ll regret having had your whole life. |
+| [Visual Intelligence: Sharpen Your Perception, Change Your Life](https://a.co/d/j3HE6M4) | [![Visual Intelligence: Sharpen Your Perception, Change Your Life](https://m.media-amazon.com/images/I/71j9JfxCb-L._SY522_.jpg)](https://a.co/d/j3HE6M4) | _Amy E. Herman_ | Learn to see what you’ve been ignoring. |
+| [Never Split the Difference: Negotiating As If Your Life Depended On It](https://a.co/d/abAHyUK) | [![Never Split the Difference: Negotiating As If Your Life Depended On It](https://m.media-amazon.com/images/I/81oUPEIf6OL._SY522_.jpg)](https://a.co/d/abAHyUK) | _Chris Voss_ | Negotiate like when lives are at stake. |
+| [Becoming Bulletproof: Life Lessons from a Secret Service Agent](https://a.co/d/eiDYTS0) | [![Becoming Bulletproof: Life Lessons from a Secret Service Agent](https://m.media-amazon.com/images/I/710A3b2eSTL._SY522_.jpg)](https://a.co/d/eiDYTS0) | _Evy Poumpouras_ | A must-read if you interact with people and their intent is not guaranteed to be to your benefit. |
+| [Spy the Lie: Former CIA Officers Teach You How to Detect Deception](https://a.co/d/dZRHCiF) | [![Spy the Lie: Former CIA Officers Teach You How to Detect Deception](https://m.media-amazon.com/images/I/61n7GtQq8AL._SY522_.jpg)](https://a.co/d/dZRHCiF) | _Philip Houston_Michael Floyd_, _Susan Carnicero_ | Imagine how different your life would be if you could tell whether someone was lying or telling you the truth. |
+| [Get the Truth: Former CIA Officers Teach You How to Persuade Anyone to Tell All](https://a.co/d/iDuVP9U) | [![Get the Truth: Former CIA Officers Teach You How to Persuade Anyone to Tell All](https://m.media-amazon.com/images/I/71XZCsS7kHL._SY522_.jpg)](https://a.co/d/iDuVP9U) | _Philip Houston_, _Michael Floyd_, _Susan Carnicero_ | People are often untruthful out of fear of negative consequences associated with divulging information. But if a person is made to forget the long-term outcomes of lying, they can be influenced to disclose sensitive information that's being withheld. |
+| [Six-Minute X-Ray: Rapid Behavior Profiling](https://a.co/d/bnFagrW) | [![Six-Minute X-Ray: Rapid Behavior Profiling](https://m.media-amazon.com/images/I/61ltw1zoYTL._SY522_.jpg)](https://a.co/d/bnFagrW) | _Chase Hughes_ | In less than six minutes, you’ll know more about the hidden side of the person you’re speaking to than their own friends and family - no joke. |
