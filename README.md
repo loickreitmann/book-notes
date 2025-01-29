@@ -12,6 +12,7 @@ By reading the following, I gained perspectives that will made me a better leade
 - [Business Processes](#business-processes)
 - [Coaching](#coaching)
 - [General Wellness](#general-wellness)
+- [Improving the Way We Do Business](#improving-the-way-we-do-business)
 
 ## General Leadership
 
@@ -81,4 +82,10 @@ By reading the following, I gained perspectives that will made me a better leade
 | ----- | ----- | ------ | ----- |
 | [Breath: The New Science of a Lost Art](https://a.co/d/gIqgay8) | [![Breath: The New Science of a Lost Art](https://m.media-amazon.com/images/I/51CRx57SVNL._SY522_.jpg)](https://a.co/d/gIqgay8) | _Nestor James_ | You will learn how you should have been breathing your whole life. |
 | [The Tools: 5 Tools to Help You Find Courage, Creativity, and Willpower--and Inspire You to Live Life in Forward Motion](https://a.co/d/iqbBTwc) | [![The Tools: 5 Tools to Help You Find Courage, Creativity, and Willpower--and Inspire You to Live Life in Forward Motion](https://m.media-amazon.com/images/I/818rSZXYrWL._SY522_.jpg)](https://a.co/d/iqbBTwc) | _Phil Stutz_, _Barry Michaels_ | Actual tools to help you get unstuck, control anger, combat anxiety, find discipline, and express yourself. |
+
+## Improving the Way We Do Business
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [This Could Be Our Future: A Manifesto for a More Generous World](https://a.co/d/0XxC3dg) | [![This Could Be Our Future: A Manifesto for a More Generous World](https://m.media-amazon.com/images/I/71Y0KDQr-tL._SY522_.jpg)](https://a.co/d/0XxC3dg) | _Yancey Strickler_ | Yancey Strickler, the former CEO of Kickstarter, lays out a vision of our economic world in which we change course to eliminate the focus on financial maximization, and expand our definition of value beyond money, to include things like purpose, family, community, wellness, sustainability, and many other traits, to lead us to a more fruitful, kind, and generous world. |
 
