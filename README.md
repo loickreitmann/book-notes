@@ -31,7 +31,7 @@ By reading the following, I gained perspectives that will made me a better leade
 | [Originals: How Non-Conformists Move the World](https://a.co/d/8iyfZV0) | [![Originals: How Non-Conformists Move the World](https://m.media-amazon.com/images/I/71u0QzDpP7L._SY522_.jpg)](https://a.co/d/8iyfZV0) | _Adam Grant_ | Learn why some people are more innovative than others, ultimately because they don’t accept the status quo for things they care deeply about |
 <!-- | [An Elegant Puzzle: Systems of Engineering Management](https://a.co/d/3pqXh4A) | [![An Elegant Puzzle: Systems of Engineering Management](https://m.media-amazon.com/images/I/71SebuRlAXL._SY522_.jpg)](https://a.co/d/3pqXh4A) | _Will Larson_ | A sort of “how to” guide for building and leading large engineering teams. I found this to be very useful, in a literature review sort of way.  | -->
 <!-- | [Exactly What to Say: The Magic Words for Influence and Impact](https://a.co/d/65JOIgW) | [![Exactly What to Say: The Magic Words for Influence and Impact](https://m.media-amazon.com/images/I/51COtxzUfpL._SY522_.jpg)](https://a.co/d/65JOIgW) | _Phil M. Jones_ | What to say, when to say it, and how to make it count. | -->
-<!-- | [](https://a.co/d/jl5ylmr) | [![]()](https://a.co/d/jl5ylmr) | _Sarah Drasner_ | THIS BOOK ISN’T FOR THE “BORN LEADERS”. THIS BOOK IS FOR THE REST OF US. | -->
+<!-- | [Engineering Management for the Rest of Us](https://a.co/d/jl5ylmr) | [![Engineering Management for the Rest of Us](https://m.media-amazon.com/images/I/81xP7I3uTmL._SY522_.jpg)](https://a.co/d/jl5ylmr) | _Sarah Drasner_ | THIS BOOK ISN’T FOR THE “BORN LEADERS”. THIS BOOK IS FOR THE REST OF US. | -->
 
 ## Understanding People and Yourself, Communicating with Empathy, and Seeing the Unseen
 
