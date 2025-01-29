@@ -10,6 +10,7 @@ By reading the following, I gained perspectives that will made me a better leade
 - [Understanding People and Yourself, Communicating with Empathy, and Seeing the Unseen](#understanding-people-and-yourself-communicating-with-empathy-and-seeing-the-unseen)
 - [Adapting to New Roles and Expectations](#adapting-to-new-roles-and-expectations)
 - [Business Processes](#business-processes)
+- [Coaching](#coaching)
 
 ## General Leadership
 
@@ -66,4 +67,10 @@ By reading the following, I gained perspectives that will made me a better leade
 | ----- | ----- | ------ | ----- |
 | [Lean Software Development: An Agile Toolkit: An Agile Toolkit](https://a.co/d/8iOJk4w) | [![Lean Software Development: An Agile Toolkit: An Agile Toolkit](https://m.media-amazon.com/images/I/71rOtB3FBVL._SY522_.jpg)](https://a.co/d/8iOJk4w) | _Mary Poppendieck_, _Tom Poppendieck_ | Learn all about the benefits of Kanban. |
 <!-- | [Execution: The Discipline of Getting Things Done](https://a.co/d/0vU3m6S) | [![Execution: The Discipline of Getting Things Done](https://m.media-amazon.com/images/I/71Xg5STofiL._SY522_.jpg)](https://a.co/d/0vU3m6S) | _Larry Bossidy_, _Ram Charan_, _Charles Burck_ | Execution shows how to link together people, strategy, and operations, the three core processes of every business. | -->
+
+## Coaching
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://a.co/d/bsbORlE) | [![The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://m.media-amazon.com/images/I/71SJhMsQe7S._SY522_.jpg)](https://a.co/d/bsbORlE) | _Michael Bungay Stanier_ | Coach effectively without subject expertise. |
 
