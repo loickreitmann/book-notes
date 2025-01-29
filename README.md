@@ -12,6 +12,7 @@ By reading the following, I gained perspectives that will made me a better leade
 - [Business Processes](#business-processes)
 - [Product Management, Development, and Marketing](#product-management-development-and-marketing)
 - [Coaching](#coaching)
+- [How Others Did It](#how-others-did-it)
 - [General Wellness](#general-wellness)
 - [Improving the Way We Do Business](#improving-the-way-we-do-business)
 
@@ -89,6 +90,16 @@ By reading the following, I gained perspectives that will made me a better leade
 | Title | Cover | Author | Notes |
 | ----- | ----- | ------ | ----- |
 | [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://a.co/d/bsbORlE) | [![The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://m.media-amazon.com/images/I/71SJhMsQe7S._SY522_.jpg)](https://a.co/d/bsbORlE) | _Michael Bungay Stanier_ | Coach effectively without subject expertise. |
+
+## How Others Did It
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://a.co/d/cEx3buo) | [![The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://m.media-amazon.com/images/I/810u9MkT3SL._SY522_.jpg)](https://a.co/d/cEx3buo) | _Ben Horowitz_ | A story about being cut throat in the early days of tech in Silicon Valley. |
+| [No Rules Rules: Netflix and the Culture of Reinvention](https://a.co/d/3zOKZJA) | [![No Rules Rules: Netflix and the Culture of Reinvention](https://m.media-amazon.com/images/I/712iG9z9pqL._SY522_.jpg)](https://a.co/d/3zOKZJA) | _Reed Hastings_, _Erin Meyer_ | This was the Netflix Way under Reed Hastings. Sadly, no longer. |
+| [Let My People Go Surfing: The Education of a Reluctant Businessman--Including 10 More Years of Business Unusual](https://a.co/d/iZdKkdR) | [![Let My People Go Surfing: The Education of a Reluctant Businessman--Including 10 More Years of Business Unusual](https://m.media-amazon.com/images/I/71bFk-Uax8L._SY522_.jpg)](https://a.co/d/iZdKkdR) | _Yvon Chouinard_ | Patagonia. A way of being. |
+<!-- | [Creativity, Inc. (The Expanded Edition): Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://a.co/d/67IdiFU) | [![Creativity, Inc. (The Expanded Edition): Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://m.media-amazon.com/images/I/71BdP-b07ZL._SY522_.jpg)](https://a.co/d/67IdiFU) | _Ed Catmull_, _Amy Wallace_ | Covers the business of creativity. I found this inspiring and use many of the techniques in this book to encourage creative thinking and decision making in my teams. | -->
+<!-- | [How Google Works](https://a.co/d/atgtZF6) | [![How Google Works](https://m.media-amazon.com/images/I/41bgmRHtOVL.jpg)](https://a.co/d/atgtZF6) | _Eric Schmidt_ | Title is pretty self explanatory - I thought this book did a great job acknowledging the realities and growing pains of starting a company from scratch. | -->
 
 ## General Wellness
 
