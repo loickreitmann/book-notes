@@ -11,6 +11,7 @@ By reading the following, I gained perspectives that will made me a better leade
 - [Adapting to New Roles and Expectations](#adapting-to-new-roles-and-expectations)
 - [Business Processes](#business-processes)
 - [Coaching](#coaching)
+- [General Wellness](#general-wellness)
 
 ## General Leadership
 
@@ -73,4 +74,11 @@ By reading the following, I gained perspectives that will made me a better leade
 | Title | Cover | Author | Notes |
 | ----- | ----- | ------ | ----- |
 | [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://a.co/d/bsbORlE) | [![The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://m.media-amazon.com/images/I/71SJhMsQe7S._SY522_.jpg)](https://a.co/d/bsbORlE) | _Michael Bungay Stanier_ | Coach effectively without subject expertise. |
+
+## General Wellness
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [Breath: The New Science of a Lost Art](https://a.co/d/gIqgay8) | [![Breath: The New Science of a Lost Art](https://m.media-amazon.com/images/I/51CRx57SVNL._SY522_.jpg)](https://a.co/d/gIqgay8) | _Nestor James_ | You will learn how you should have been breathing your whole life. |
+| [The Tools: 5 Tools to Help You Find Courage, Creativity, and Willpower--and Inspire You to Live Life in Forward Motion](https://a.co/d/iqbBTwc) | [![The Tools: 5 Tools to Help You Find Courage, Creativity, and Willpower--and Inspire You to Live Life in Forward Motion](https://m.media-amazon.com/images/I/818rSZXYrWL._SY522_.jpg)](https://a.co/d/iqbBTwc) | _Phil Stutz_, _Barry Michaels_ | Actual tools to help you get unstuck, control anger, combat anxiety, find discipline, and express yourself. |
 
