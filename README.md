@@ -2,7 +2,7 @@
 
 _And other interesting topics._
 
-By reading the following, I gained perspectives that will made me a better leader, spouse/partner, parent, friend, and human. What have _you_ got to lose? Get to it!
+By reading the following, I gained perspectives that made me a better leader, spouse/partner, parent, friend, and human. What have _you_ got to lose? Get to it!
 
 ### Table of Contents
 
