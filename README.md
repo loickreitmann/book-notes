@@ -8,7 +8,7 @@ By reading the following, I gained perspectives that made me a better leader, sp
 
 - [General Leadership](#general-leadership)
 - [Understanding People and Yourself, Communicating with Empathy, and Seeing the Unseen](#understanding-people-and-yourself-communicating-with-empathy-and-seeing-the-unseen)
-- [Adapting to New Roles and Expectations](#adapting-to-new-roles-and-expectations)
+- [Adapting and Evolving](#adapting-and-evolving)
 - [Business Processes](#business-processes)
 - [Product Management, Development, and Marketing](#product-management-development-and-marketing)
 - [Coaching](#coaching)
@@ -59,10 +59,11 @@ By reading the following, I gained perspectives that made me a better leader, sp
 | [Get the Truth: Former CIA Officers Teach You How to Persuade Anyone to Tell All](https://a.co/d/iDuVP9U) | [![Get the Truth: Former CIA Officers Teach You How to Persuade Anyone to Tell All](https://m.media-amazon.com/images/I/71XZCsS7kHL._SY522_.jpg)](https://a.co/d/iDuVP9U) | _Philip Houston_, _Michael Floyd_, _Susan Carnicero_ | People are often untruthful out of fear of negative consequences associated with divulging information. But if a person is made to forget the long-term outcomes of lying, they can be influenced to disclose sensitive information that's being withheld. |
 | [Six-Minute X-Ray: Rapid Behavior Profiling](https://a.co/d/bnFagrW) | [![Six-Minute X-Ray: Rapid Behavior Profiling](https://m.media-amazon.com/images/I/61ltw1zoYTL._SY522_.jpg)](https://a.co/d/bnFagrW) | _Chase Hughes_ | In less than six minutes, you'll know more about the hidden side of the person you're speaking to than their own friends and family - no joke. |
 
-## Adapting to New Roles and Expectations
+## Adapting and Evolving
 
 | Title | Cover | Author | Notes |
 | ----- | ----- | ------ | ----- |
+| [Nobody Is Coming to Save You: A Green Beret's Guide to Getting Big Sh*t Done](https://a.co/d/07MkCTnE) | [![Nobody Is Coming to Save You: A Green Beret's Guide to Getting Big Sh*t Done](https://m.media-amazon.com/images/I/71MKz7hNp-L._SY522_.jpg)](https://a.co/d/07MkCTnE) | _Scott Mann_ | Learn to overcome the churn, bridge divides and build trust where there is none, and become a better leader who gets things done, even no one else is able to. |
 | [The Pit of Success: How Leaders Adapt, Succeed, and Repeat](https://a.co/d/bxVsnGm) | [![The Pit of Success: How Leaders Adapt, Succeed, and Repeat](https://m.media-amazon.com/images/I/71wvrOvMA3L._SY522_.jpg)](https://a.co/d/bxVsnGm) | _Dave Jennings_ | Expect to be not as good when you are on your path to doing new things. Information is power. |
 | [Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong](https://a.co/d/fjREdHC) | [![Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong](https://m.media-amazon.com/images/I/71HDkkX81tL._SY522_.jpg)](https://a.co/d/fjREdHC) | _Eric Barker_ | Most of the earnest and logical advice you got about how to become successful was wrong. |
 | [What Got You Here Won't Get You There: How Successful People Become Even More Successful](https://a.co/d/gjCPz3R) | [![What Got You Here Won't Get You There: How Successful People Become Even More Successful](https://m.media-amazon.com/images/I/71UONAxkmpL._SY522_.jpg)](https://a.co/d/gjCPz3R) | _Marshall Goldsmith_, _Mark Reiter_ | America's most sought-after executive coach shows how to climb the last few rungs of the ladder. |
