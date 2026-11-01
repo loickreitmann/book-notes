@@ -4,7 +4,7 @@ By **Marshal Goldsmith** with _Mark Reiter_.
 
 ## Chapter 4: The Twenty Habits
 
-The specific bread of flaws are challenges in interpersonal behavior, often leadership behavior.
+The specific breed of flaws are challenges in interpersonal behavior, often leadership behavior.
 
 1. Winning too much, whether it matters or not.
 2. Adding too much value.
