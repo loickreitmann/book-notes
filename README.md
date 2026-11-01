@@ -15,6 +15,7 @@ By reading the following, I gained perspectives that made me a better leader, sp
 - [How Others Did It](#how-others-did-it)
 - [General Wellness](#general-wellness)
 - [Improving the Way We Do Business](#improving-the-way-we-do-business)
+- [Platform Engineering](#platform-engineering)
 
 ## General Leadership
 
@@ -116,3 +117,8 @@ By reading the following, I gained perspectives that made me a better leader, sp
 | ----- | ----- | ------ | ----- |
 | [This Could Be Our Future: A Manifesto for a More Generous World](https://a.co/d/0XxC3dg) | [![This Could Be Our Future: A Manifesto for a More Generous World](https://m.media-amazon.com/images/I/71Y0KDQr-tL._SY522_.jpg)](https://a.co/d/0XxC3dg) | _Yancey Strickler_ | Yancey Strickler, the former CEO of Kickstarter, lays out a vision of our economic world in which we change course to eliminate the focus on financial maximization, and expand our definition of value beyond money, to include things like purpose, family, community, wellness, sustainability, and many other traits, to lead us to a more fruitful, kind, and generous world. |
 
+## Platform Engineering
+
+| Title | Cover | Author | Notes |
+| ----- | ----- | ------ | ----- |
+| [Thinking in Platforms: Platform engineering as the operating model for work in the AI era](https://a.co/d/0ilbk3Sb) | [![Thinking in Platforms: Platform engineering as the operating model for work in the AI era](https://m.media-amazon.com/images/I/81tUeDnXGsL._SY522_.jpg)](https://a.co/d/0ilbk3Sb) | _Kaspar von Grünberg_ and _Luca Galante_ | The successful organizations will be the ones that think in platforms. Treat your platform as a product and focus on iterating to deliver usable value to your users. Stop thinking in siloed and fixed mindset projects. |
